@@ -1,0 +1,12 @@
+# normal rules
+*.o
+*.a
+*.so
+*.log
+
+# ET creator project file.
+build*/
+ET_QT/
+
+# Intermediate files.
+Src/ET
