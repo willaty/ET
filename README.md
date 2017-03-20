@@ -2,6 +2,7 @@
 ## 1. Introduction:
     A easy chat server.
     This project is just for learning, which is not mature.
+    This project is fork from yaocoder/HPNetServer.
     version: v0.1
 
 ## 2. Build:
